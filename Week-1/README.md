@@ -1,14 +1,16 @@
-# Week 1 - DecodeLabs AI Internship
+# Week 1 - Rule-Based AI Chatbot
 
-## Project Title
-AI Internship - Week 1
+## Project Overview
+This project is a simple rule-based AI chatbot built using Python. It responds to user inputs using if-else logic and runs in a continuous loop.
 
-## Description
-This repository contains my Week 1 project completed as part of the DecodeLabs AI Internship.
+## Features
+- Handles greetings (hi, hello)
+- Responds to basic questions
+- Personalized responses
+- Exit commands (bye, exit, quit)
 
-## Technologies Used
+## Tech Used
 - Python
-- Google Colab
 
 ## Status
 ✅ Completed
